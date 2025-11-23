@@ -3,3 +3,14 @@
 # Ignore full COCO dataset
 data/coco/
 data/coco/
+drive/
+data/
+*.zip
+annotations*
+data/
+drive/
+annotations/
+annotations*.zip
+annotations_trainval2017.zip
+annotations.zip
+outputs/
